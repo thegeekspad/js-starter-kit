@@ -1,1 +1,1 @@
-console.log('JS is working!');
+console.log("Client side JS is working!");
