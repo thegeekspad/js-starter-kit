@@ -4,6 +4,10 @@ Starter kit for JavaScript based application
 
 ## Features
 
+- Project Structure
+- Production Grade Web Server (Express)
+- Multi-Environment Support
+- Error Handling Middleware
 - Editor support
 - Package Management
 - Bundling
