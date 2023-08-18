@@ -1,7 +1,6 @@
 import express from "express";
 import dotenv from "dotenv";
 import path from "path";
-import open from "open";
 import { fileURLToPath } from "url";
 
 dotenv.config();
